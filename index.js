@@ -17,3 +17,6 @@ function add(){
 
 let element  = document.getElementById('#app')
 
+function test(){
+    console.log(arguments)
+}
