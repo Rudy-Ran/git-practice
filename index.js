@@ -9,7 +9,7 @@ let f = 6
 let ggg = 'ggg'
 
 
-let h = 'c'
+let h = 'e'
 
 function add(){
 
@@ -23,3 +23,5 @@ let element  = document.getElementById('#app')
 function test(){
     console.log(arguments)
 }
+
+amend
