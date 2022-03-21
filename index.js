@@ -19,10 +19,10 @@ for(let i=0;i<10;i++){
     console.log(i)
 }
 
-function test(){
+function test2(){
 
 }
 
-function test2(){
+function test3(){
     
 }
