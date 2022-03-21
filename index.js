@@ -18,3 +18,8 @@ function add(){
 for(let i=0;i<10;i++){
     console.log(i)
 }
+let element  = document.getElementById('#app')
+
+function test(){
+    console.log(arguments)
+}
