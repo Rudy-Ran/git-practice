@@ -15,15 +15,11 @@ function add(){
 
 }
 
-for(let i=0;i<10;i++){
-    console.log(i)
-}
-
-function test(){
-
-}
-
 function test2(){
+
+}
+
+function test3(){
     
 }
 let element  = document.getElementById('#app')
@@ -33,3 +29,8 @@ function test(){
 }
 
 amend
+
+
+console.log(this.$nextTick(callback))
+
+console.log('sss')
