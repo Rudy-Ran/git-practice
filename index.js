@@ -29,3 +29,6 @@ function test(){
 }
 
 amend
+
+
+console.log(this.$nextTick(callback))
