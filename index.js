@@ -33,4 +33,7 @@ amend
 
 console.log(this.$nextTick(callback))
 
+
+
+console.log('asdasd')
 console.log('sss')
